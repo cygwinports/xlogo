@@ -1,4 +1,4 @@
 category: X11
-requires: cygwin libSM6 libX11_6 libXaw7 libXext6 libXft2 libXmu6 libXrender1 libXt6
+requires: libSM6 libX11_6 libXaw7 libXext6 libXft2 libXmu6 libXrender1 libXt6
 sdesc: "X.Org logo"
 ldesc: "X.Org logo"
