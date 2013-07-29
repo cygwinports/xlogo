@@ -1,0 +1,8 @@
+inherit xorg
+
+NAME="xlogo"
+VERSION=1.0.4
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X logo demo"
+DESCRIPTION="This program displays the X Window System logo."
